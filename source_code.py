@@ -8,8 +8,8 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.losses import MeanAbsoluteError
 import matplotlib.pyplot as plt
 
-# Load Helpdesk dataset (Replace 'helpdesk.csv' with actual file path)
-data_path = 'helpdesk.csv'  # Update this with your actual file path
+# Load Helpdesk dataset 
+data_path = 'helpdesk.csv'  
 helpdesk_data = pd.read_csv(data_path)
 
 # Preprocessing
