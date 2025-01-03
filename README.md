@@ -11,5 +11,5 @@ Introducing k-fold cross-validation and new evaluation metrics for better model 
 
 
 # Repository Contents:
-source_code.py: Core Python script for data preprocessing, model training, and evaluation.
-plot_outputs.py: Generates training/validation accuracy and loss graphs.
+source_code.py: Core Python script for data preprocessing, model training, evaluation and visualizations.
+
